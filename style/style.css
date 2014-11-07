@@ -148,6 +148,8 @@ a:link, a:visited {
 .head_article {
 	width: 30%;
 	float: left;
+	font-style: bold;
+	text-decoration: underline;
 }
 .date {
 	width: 10%;
